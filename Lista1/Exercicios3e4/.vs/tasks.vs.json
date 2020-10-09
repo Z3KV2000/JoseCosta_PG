@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Exercicio3",
+      "appliesTo": "Exercicio3/",
+      "type": "launch"
+    }
+  ]
+}

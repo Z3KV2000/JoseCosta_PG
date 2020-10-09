@@ -1,0 +1,4 @@
+C:\Users\yUNG mAGAIVER\source\repos\Hello Triangle\Exercicio4\Exercicio4\Debug\HelloTriangle.exe
+C:\Users\yUNG mAGAIVER\source\repos\Hello Triangle\Exercicio4\Exercicio4\Debug\HelloTriangle.pdb
+C:\Users\yUNG mAGAIVER\source\repos\Exercicios3e4\Exercicio4\Exercicio4\Debug\HelloTriangle.exe
+C:\Users\yUNG mAGAIVER\source\repos\Exercicios3e4\Exercicio4\Exercicio4\Debug\HelloTriangle.pdb

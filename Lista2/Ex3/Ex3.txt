@@ -1,0 +1,3 @@
+Depois de efetuar a chamada de desenho do codigo do exercicio 2, é necessario aumentar as proporções dos desenhos para acompanhar o tamanho da tela,
+alem disso, agora temos o eixo Y com sua origem no canto superior esquerdo, sendo essa configuração mais prática para o desenvolvimento de jogos, pois
+a maioria dos aplicativos de modelagem e estruturação de fases aplica as origens dos eixos X e Y nessas posições.
