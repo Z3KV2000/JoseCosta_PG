@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HelloTriangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SceneManager.cpp
+c:\users\fabia\documents\processamente grafico\trabalhoga_pg\hellotextures - stb\hellotriangle\scenemanager.cpp(107): warning C4305: '+=': truncamento de 'double' para 'float'
+c:\users\fabia\documents\processamente grafico\trabalhoga_pg\hellotextures - stb\hellotriangle\scenemanager.cpp(110): warning C4305: '-=': truncamento de 'double' para 'float'
+c:\users\fabia\documents\processamente grafico\trabalhoga_pg\hellotextures - stb\hellotriangle\scenemanager.cpp(113): warning C4305: '+=': truncamento de 'double' para 'float'
+c:\users\fabia\documents\processamente grafico\trabalhoga_pg\hellotextures - stb\hellotriangle\scenemanager.cpp(116): warning C4305: '-=': truncamento de 'double' para 'float'
+  HelloTriangle.vcxproj -> C:\Users\fabia\Documents\Processamente Grafico\TrabalhoGA_PG\HelloTextures - STB\Debug\Transforms.exe
