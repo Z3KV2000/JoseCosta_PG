@@ -3,3 +3,4 @@ D:\Users\zeca_\Desktop\Nova pasta\TGA_PG_JoseCosta\GAME\GAME\Debug\Transforms.pd
 D:\Users\zeca_\Desktop\Nova pasta\TGA_PG_JoseCosta\Framework-PG\Debug\Transforms.pdb
 D:\Users\zeca_\Desktop\Nova pasta\TGA_PG_JoseCosta\Framework-PG\Framework-PG\Debug\Transforms.exe
 D:\Users\zeca_\Desktop\Nova pasta\TGA_PG_JoseCosta\Framework-PG\Framework-PG\Debug\Transforms.pdb
+D:\Users\zeca_\Documents\GitHub\JoseCosta_PG\Lista 4 e TGA_PG_JoseCosta\Framework-PG\Framework-PG\Debug\Transforms.exe

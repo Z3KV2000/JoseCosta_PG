@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HelloTriangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SceneManager.cpp
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.h(73): warning C4200: extensão não padrão usada: matriz de tamanho zero em struct/union
+  h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.h(73): note: Esse membro será ignorado por um construtor ou um operador de atribuição de copiar/mover padrão
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(9): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(15): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(18): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(171): warning C4305: '+=': truncamento de 'double' para 'float'
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(179): warning C4305: '-=': truncamento de 'double' para 'float'
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(238): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(243): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(244): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(245): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(473): warning C4305: '+=': truncamento de 'double' para 'float'
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(552): warning C4305: '+=': truncamento de 'double' para 'float'
+h:\documentos do derick\unisinos\2019_1\pg\lista05\lista5_questao01_&_02\hellotextures - stb\hellotriangle\scenemanager.cpp(586): warning C4101: 'RBO': variável local não referenciada
+  HelloTriangle.vcxproj -> H:\Documentos do Derick\Unisinos\2019_1\PG\Lista05\Lista5_Questao01_&_02\HelloTextures - STB\Debug\Transforms.exe
