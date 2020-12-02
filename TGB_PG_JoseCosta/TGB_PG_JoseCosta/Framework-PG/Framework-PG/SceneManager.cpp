@@ -127,7 +127,7 @@ void SceneManager::setupScene()
 	telas[1]->setTexture(texID);
 
 
-	texID = loadTexture("../textures/SpriteSheet_Penguin.png");
+	texID = loadTexture("../textures/yoshi.png");
 	personagem = new Personagem;
 	personagem->setPosition(glm::vec3(100.0f, 100.0f, 1.0f));
 	personagem->setDimension(glm::vec3(100.0f, 100.0f, 1.0f));
@@ -151,7 +151,7 @@ void SceneManager::initializeGraphics()
 	glfwInit();
 
 	// Create a GLFWwindow object that we can use for GLFW's functions
-	window = glfwCreateWindow(width, height, "Hello Sprites", nullptr, nullptr);
+	window = glfwCreateWindow(width, height, "TGB_PG_JoseCosta", nullptr, nullptr);
 	glfwMakeContextCurrent(window);
 
 	// Set the required callback functions
